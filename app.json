@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "red-dot",
+    "slug": "red-dot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "red-dot"
+}
