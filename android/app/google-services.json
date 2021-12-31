@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348631629076",
+    "project_id": "reddot-test-bc98b",
+    "storage_bucket": "reddot-test-bc98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348631629076:android:2ca26c0a39679f97289601",
+        "android_client_info": {
+          "package_name": "com.reddot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348631629076-i9bqaj7sicpqdfqj4s5m5sq7cvo5mltf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0H0ohZdo6VkElLCVq4Hc8HUuJra4dntE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348631629076-i9bqaj7sicpqdfqj4s5m5sq7cvo5mltf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
